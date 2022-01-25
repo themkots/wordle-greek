@@ -1,7 +1,7 @@
 # ΛΕΞΛΕ
 
 This is a simple fork of the excellent wordle clone below to allow the game to be played in Greek.
-So far, the list of words is very minimal - from [here](https://github.com/swo/greek_corpus/blob/master/words.txt). Will update when I find a more comprehensive word list.
+The list of valid words comes from [here](https://sourceforge.net/projects/orthos-spell/).
 
 # Wordle Clone
 
