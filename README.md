@@ -1,3 +1,8 @@
+# ΛΕΞΛΕ
+
+This is a simple fork of the excellent wordle clone below to allow the game to be played in Greek.
+So far, the list of words is very minimal - from [here](https://github.com/swo/greek_corpus/blob/master/words.txt). Will update when I find a more comprehensive word list.
+
 # Wordle Clone
 
 - Go play the real Wordle [here](https://www.powerlanguage.co.uk/wordle/)
