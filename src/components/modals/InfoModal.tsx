@@ -8,7 +8,7 @@ type Props = {
 
 export const InfoModal = ({ isOpen, handleClose }: Props) => {
   return (
-    <BaseModal title="Κανόνες παιχνιδίου" isOpen={isOpen} handleClose={handleClose}>
+    <BaseModal title="Κανόνες παιχνιδιού" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500">
 	Μάντεψε την ΛΕΞΛΕ σε 6 προσπάθειες. Μετά από κάθε προσπάθεια, το χρώμα κάθε γράμματος
 	θα αλλάξει ανάλογα με το πόσο κόντα ήταν η προσπάθεια σου στην σωστή λέξη.

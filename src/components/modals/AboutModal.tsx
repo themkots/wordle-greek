@@ -14,14 +14,14 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           href="https://github.com/gvarnavi/wordle-greek"
           className="underline font-bold"
         >
-          Δές τον κώδικα εδώ
+          Δες τον κώδικα εδώ
         </a>{' '}
         και{' '}
         <a
           href="https://www.powerlanguage.co.uk/wordle/"
           className="underline font-bold"
         >
-          παίξε το original εδώ.
+          παίξε το original εδώ
         </a>
       </p>
     </BaseModal>
