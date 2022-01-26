@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wordle-greek/static/css/main.7897b4b2.css",
-    "main.js": "/wordle-greek/static/js/main.31ebb5dc.js",
+    "main.js": "/wordle-greek/static/js/main.6d03f6ba.js",
     "static/js/787.085e616d.chunk.js": "/wordle-greek/static/js/787.085e616d.chunk.js",
     "index.html": "/wordle-greek/index.html",
     "main.7897b4b2.css.map": "/wordle-greek/static/css/main.7897b4b2.css.map",
-    "main.31ebb5dc.js.map": "/wordle-greek/static/js/main.31ebb5dc.js.map",
+    "main.6d03f6ba.js.map": "/wordle-greek/static/js/main.6d03f6ba.js.map",
     "787.085e616d.chunk.js.map": "/wordle-greek/static/js/787.085e616d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7897b4b2.css",
-    "static/js/main.31ebb5dc.js"
+    "static/js/main.6d03f6ba.js"
   ]
 }
