@@ -1,7 +1,9 @@
 # ΛΕΞΛΕ
 
 This is a simple fork of the excellent wordle clone below to allow the game to be played in Greek.
-The list of valid words comes from [here](https://sourceforge.net/projects/orthos-spell/).
+The list of valid words comes from a combination of [here](https://sourceforge.net/projects/orthos-spell/) and [here](https://sites.google.com/site/dimizaro/lexiko/lexeis5grammaton).
+
+Try a demo of this project [here](https://gvarnavides.com/wordle-greek/).
 
 # Wordle Clone
 
